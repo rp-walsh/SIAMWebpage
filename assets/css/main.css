@@ -1608,7 +1608,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-color: #303030;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -1829,7 +1829,8 @@
 			}
 
 				.wrapper.first {
-					padding-top: 12em;
+					padding-top: 2em;
+					padding-bottom: 0em;
 				}
 
 		/* Nav */
